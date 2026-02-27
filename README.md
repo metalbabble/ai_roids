@@ -2,6 +2,8 @@
 
 A simple Node.js application serving a browser-based Asteroids-like game.
 
+![ai_roids](ai_roids.png)
+
 ## Setup
 
 ```bash
